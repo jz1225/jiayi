@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: "Acorns_project_presentation.pdf"
 venue: "UIUC, Department of Astronomy"
-date: 2024-07
+date: 2024-07-30
 location: "Urbana, Illinois"
 ---
 
