@@ -19,11 +19,11 @@ Research Interests
 - Physics of Compact Objects
 - Star Formation
 
-Research Experience
+News
 ======
-Research 1
+Post
 ------
-here goes content 
+permalink: /posts/2012/08/blog-post-1/
 
 
 Research 2
