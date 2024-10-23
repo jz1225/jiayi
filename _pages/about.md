@@ -21,11 +21,3 @@ Research Interests
 
 News
 ======
-Post
-------
-permalink: /posts/2012/08/blog-post-1/
-
-
-Research 2
-------
-Here goes content
